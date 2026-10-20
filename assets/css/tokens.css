@@ -1,0 +1,16 @@
+@font-face{font-family:'Poppins';src:url('../fonts/poppins-400.woff2') format('woff2');font-style:normal;font-weight:400;font-display:swap}
+@font-face{font-family:'Poppins';src:url('../fonts/poppins-500.woff2') format('woff2');font-style:normal;font-weight:500;font-display:swap}
+@font-face{font-family:'Poppins';src:url('../fonts/poppins-600.woff2') format('woff2');font-style:normal;font-weight:600;font-display:swap}
+@font-face{font-family:'Poppins';src:url('../fonts/poppins-700.woff2') format('woff2');font-style:normal;font-weight:700;font-display:swap}
+@font-face{font-family:'Work Sans';src:url('../fonts/work-sans-variable.woff2') format('woff2');font-style:normal;font-weight:400 700;font-display:swap}
+:root {
+  --forest:#343941; --forest-deep:#242932; --forest-soft:#f0f2f5;
+  --gold:#936924; --gold-light:#ead4a7; --cream:#f7f8fa; --paper:#fff;
+  --ink:#252a32; --muted:#535b66; --line:#dfe3e8; --error:#ad3030;
+  --font-heading:'Poppins',ui-sans-serif,system-ui,sans-serif;
+  --font-body:'Work Sans',ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;
+  --s1:.5rem; --s2:1rem; --s3:1.5rem; --s4:2rem; --s5:3rem; --s6:4rem; --s7:6rem;
+  --radius:18px; --shadow:0 16px 46px rgba(35,42,52,.09);
+  --container:1200px;
+}
+
